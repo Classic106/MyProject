@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed8b"
+  },
+  "manufacturer": "zaz",
+  "models": []
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed8c"
+  },
+  "manufacturer": "vaz",
+  "models": [
+    2102,
+    2101
+  ]
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed8d"
+  },
+  "manufacturer": "chevrolet",
+  "models": []
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed8e"
+  },
+  "manufacturer": "audi",
+  "models": []
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed8f"
+  },
+  "manufacturer": "bmw",
+  "models": [
+    720,
+    850,
+    320
+  ]
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed90"
+  },
+  "manufacturer": "toyota",
+  "models": []
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed91"
+  },
+  "manufacturer": "lexus",
+  "models": []
+},{
+  "_id": {
+    "$oid": "610733d985e7ef0e5f49ed92"
+  },
+  "manufacturer": "mercedes",
+  "models": [
+    "123"
+  ]
+},{
+  "_id": {
+    "$oid": "61353648019fd7690bfde7e4"
+  },
+  "models": [
+    "cobra",
+    "mustang"
+  ],
+  "manufacturer": "shelby"
+},{
+  "_id": {
+    "$oid": "6135364d019fd7690bfde7fb"
+  },
+  "models": [
+    "345"
+  ],
+  "manufacturer": "ducati"
+},{
+  "_id": {
+    "$oid": "61353898019fd7690bfde82c"
+  },
+  "models": [
+    "daytona"
+  ],
+  "manufacturer": "dodge"
+}]

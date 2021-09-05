@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "6131f4f7d545c611ff6a4e98"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816306639254290.jpeg",
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816306639254291.jpeg"
+  ],
+  "manufacturer": "vaz",
+  "model": "2102",
+  "price": 200,
+  "year": 1979,
+  "engine": 1.2,
+  "fuel": "Petrol",
+  "mileage": 150000,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "orange",
+  "condition": "Needs repair",
+  "city": "rovno",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "612aa367b12c5c6f93c01448"
+  },
+  "date": 1630664164471
+},{
+  "_id": {
+    "$oid": "6131f547d545c611ff6a4e9d"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816306640048760.jpeg"
+  ],
+  "manufacturer": "bmw",
+  "model": "850",
+  "price": 9000,
+  "year": 1995,
+  "engine": 5,
+  "fuel": "Petrol",
+  "mileage": 100000,
+  "transmission": "Automat",
+  "drive": "Rear wheel",
+  "color": "black",
+  "condition": "No investment required",
+  "city": "rovno",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "612aa367b12c5c6f93c01448"
+  },
+  "date": 1630664171166
+},{
+  "_id": {
+    "$oid": "613535ca019fd7690bfde7c2"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16308771223500.jpeg"
+  ],
+  "manufacturer": "bmw",
+  "model": "720",
+  "price": 7000,
+  "year": 1996,
+  "engine": 2,
+  "fuel": "Petrol",
+  "mileage": 170000,
+  "transmission": "Automat",
+  "drive": "Rear wheel",
+  "color": "black",
+  "condition": "No investment required",
+  "city": "kyiv",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "6131ec4fd545c611ff6a265e"
+  },
+  "date": 1630877277288
+},{
+  "_id": {
+    "$oid": "6135388c019fd7690bfde818"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308778351870.jpeg",
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308778351871.jpeg"
+  ],
+  "manufacturer": "dodge",
+  "model": "daytona",
+  "price": 150000,
+  "year": 1969,
+  "engine": 5,
+  "fuel": "Petrol",
+  "mileage": 5000,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "red",
+  "condition": "Good condition",
+  "city": "lviv",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "612aa367b12c5c6f93c01448"
+  },
+  "date": 1630877848343
+},{
+  "_id": {
+    "$oid": "6131f8aad545c611ff6a4ed5"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306648714900.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306648714901.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306648714902.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306648714903.jpeg"
+  ],
+  "manufacturer": "shelby",
+  "model": "cobra",
+  "price": 500000,
+  "year": 1976,
+  "engine": 6,
+  "fuel": "Petrol",
+  "mileage": 10000,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "blue",
+  "condition": "No investment required",
+  "city": "texas",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "6131ec4fd545c611ff6a265e"
+  },
+  "date": 1630877256749
+},{
+  "_id": {
+    "$oid": "6131f918d545c611ff6a4edb"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306649821900.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306649821901.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306649821902.jpeg",
+    "http://localhost:3001/carsImages/6131ec4fd545c611ff6a265e16306649821903.jpeg"
+  ],
+  "manufacturer": "shelby",
+  "model": "mustang",
+  "price": 4500000,
+  "year": 1980,
+  "engine": 5.5,
+  "fuel": "Petrol",
+  "mileage": 1000,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "silver",
+  "condition": "No investment required",
+  "city": "texas",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "6131ec4fd545c611ff6a265e"
+  },
+  "date": 1630877259259
+},{
+  "_id": {
+    "$oid": "613531d50d44486409c347ab"
+  },
+  "images": [
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308761164360.jpeg",
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308761164361.jpeg",
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308761164362.jpeg",
+    "http://localhost:3001/carsImages/612aa367b12c5c6f93c0144816308761164363.jpeg"
+  ],
+  "manufacturer": "ducati",
+  "model": "345",
+  "price": 3000,
+  "year": 2021,
+  "engine": 0.9,
+  "fuel": "Petrol",
+  "mileage": 0,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "black",
+  "condition": "New",
+  "city": "kyiv",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "612aa367b12c5c6f93c01448"
+  },
+  "date": 1630877261588
+}]

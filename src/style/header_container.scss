@@ -1,0 +1,25 @@
+.header_container{
+    
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    img{
+        width: 150px;
+        margin: 0 60px;
+    }
+    p{
+        padding: 0px 100px;
+        display: flex;
+        text-align: center;
+        font-family: 'Spicy Rice', sans-serif;
+    }
+    div{
+        display: flex;
+        padding: 15px;
+    }
+    .header_buttons{
+        display: flex;
+        flex-direction: column;
+    }
+}

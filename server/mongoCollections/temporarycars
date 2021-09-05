@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "613539a0019fd7690bfde833"
+  },
+  "images": [
+    "http://localhost:3001/tempCarsImages/6131ec4fd545c611ff6a265e16308781112560.jpeg"
+  ],
+  "manufacturer": "plymouth",
+  "model": "prowler",
+  "price": 12000,
+  "year": 1994,
+  "engine": 3,
+  "fuel": "Petrol",
+  "mileage": 100000,
+  "transmission": "Mechanic",
+  "drive": "Rear wheel",
+  "color": "purple",
+  "condition": "Good condition",
+  "city": "lviv",
+  "exchange": false,
+  "description": "",
+  "userId": {
+    "$oid": "6131ec4fd545c611ff6a265e"
+  }
+}]

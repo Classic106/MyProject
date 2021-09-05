@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "612a915aaba8b44e1cc666a0"
+  },
+  "carsId": [],
+  "login": "fgfgtret",
+  "email": "dgdf@fdg.dfg",
+  "password": "$2b$10$2lrmxO6ccSwDK1x8Bac2oezQrrYJ97IXsLJOHxRcLnPN5xkuWZbT6",
+  "isDeleted": false,
+  "isAdmin": true,
+  "name": "",
+  "phone": "",
+  "additionalPhone": "",
+  "date": 1630179674684
+},{
+  "_id": {
+    "$oid": "612aa367b12c5c6f93c01448"
+  },
+  "carsId": [
+    {
+      "$oid": "6131f4f7d545c611ff6a4e98"
+    },
+    {
+      "$oid": "6131f547d545c611ff6a4e9d"
+    },
+    {
+      "$oid": "613531d50d44486409c347ab"
+    },
+    {
+      "$oid": "6135388c019fd7690bfde818"
+    }
+  ],
+  "login": "fgfgtret5",
+  "email": "dfgdf@fdg.dfg",
+  "password": "$2b$10$rwgWPtO/i.MbmKjmZ8WkJeUvIJfHibEHwxxxwPwt.f.FiENQS3ucq",
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "",
+  "phone": "",
+  "additionalPhone": "",
+  "date": 1630330428546,
+  "deleteDate": 0
+},{
+  "_id": {
+    "$oid": "6131ec4fd545c611ff6a265e"
+  },
+  "carsId": [
+    {
+      "$oid": "6131f8aad545c611ff6a4ed5"
+    },
+    {
+      "$oid": "6131f918d545c611ff6a4edb"
+    },
+    {
+      "$oid": "613535ca019fd7690bfde7c2"
+    }
+  ],
+  "login": "test",
+  "email": "test@test.test",
+  "password": "$2b$10$OXD4/YKoCvH1bmi0v3en2OjAdcOI8BHsdLOvuj5EDXfZxAzhniI/u",
+  "isDeleted": false,
+  "isAdmin": false,
+  "name": "",
+  "phone": "",
+  "additionalPhone": "",
+  "date": 1630661711965
+}]

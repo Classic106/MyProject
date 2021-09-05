@@ -1,0 +1,31 @@
+.user_profile{
+    
+    background: url('../images/rst-ua-carbon-texture.png');
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+    form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 312px;
+
+        label{
+            justify-content: space-between;
+            display: flex;
+            width: 100%;
+            margin: 10px;
+            align-items: center;
+        }
+    }
+    .profile_buttons{
+        display: flex;
+        width: 100%;
+        justify-content: space-between;
+
+        button.delete{
+            width: max-content;
+        }
+    }
+}

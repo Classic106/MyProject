@@ -1,0 +1,36 @@
+{
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverage": true
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "env-cmd -f ./conf/test.env jest",
+    "start": "node server.js",
+    "dev": "env-cmd -f ./conf/dev.env nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "fs-extra": "^10.0.0",
+    "in": "^0.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.5",
+    "mongoose-hidden": "^1.9.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "jest": "^27.1.0",
+    "supertest": "^6.1.6"
+  }
+}

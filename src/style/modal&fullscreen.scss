@@ -1,0 +1,41 @@
+.modal_page, .fullscreen{
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    background: #01010183;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.fullscreen{
+    justify-content: space-between;
+    align-items: center;
+
+    .wrap_slider{
+        display: flex;
+        width: 100%;
+        margin: auto;
+        
+        .slick-slider{
+            .slick-prev, .slick-next{
+                width: 75px;
+                height: 75%;
+            }
+            .slider_image_wrap {
+            
+                img{
+                  height: 87vh;
+                  width: auto;
+                  margin: 0 auto;
+                }
+            }
+        }
+
+        
+    }
+}

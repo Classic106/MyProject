@@ -1,0 +1,10 @@
+.user_cars{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+
+    .empty{
+        margin: 200px auto;
+    }
+}

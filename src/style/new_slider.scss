@@ -1,0 +1,45 @@
+.new_wrap_car_img{
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  .slick-slider{
+    .slick-prev, .slick-next{
+      width: 50px;
+    }
+    .slick-prev:before, .slick-next:before{
+      font-size: 50px;
+      opacity: 1;
+      color: #f4da00;
+    }
+    .slick-list{
+      margin: 0;
+
+      .slick-track{
+        .slider_image_wrap {
+          display: flex;
+          justify-content: center;
+          width: 100%;
+          position: relative;
+          
+          .slider_image_buttons{
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: #00000091;
+            opacity: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: opacity .5s;
+          }
+        }
+        .slider_image_wrap:hover .slider_image_buttons{
+          opacity: 1;
+          background: #00000091;
+        }
+      }
+    }
+  }
+}
